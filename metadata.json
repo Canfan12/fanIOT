@@ -1,0 +1,10 @@
+{
+  "name": "Remix: IoT Relay \u0026 Telemetry Dashboard",
+  "description": "ESP32/ESP8266 remote control dashboard for 4-channel relay and DHT sensor with real-time sync, Google Login, and voice commands.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
